@@ -1,5 +1,6 @@
-url:
-baseurl: /sarahwestcott.com
+
+url: "https://sarah-westcott.com" # the base hostname & protocol for your site
+baseurl: ""
 
 # Site settings
 title: Sarah Westcott
